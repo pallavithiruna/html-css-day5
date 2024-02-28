@@ -1,0 +1,65 @@
+.github{
+    /* padding-bottom: 50px; */
+    margin:150px;
+    margin-top: 20px;
+    background-color: rgb(188, 202, 202);
+}
+
+.container{
+    display: grid;
+    grid-template-columns:auto auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-right: 0px;
+
+}
+.col-1{
+    /* background-color: black; */
+    border-radius: 20px;
+    width: 250px;
+    height: 500px;
+    /* padding: 20px; */
+    margin: 25px;
+    /* margin-bottom: 0px; */
+}
+
+.col-2{
+    border-radius: 25px;
+    margin: 30px;
+    /* padding: 10px; */
+}
+/* .row-1{
+    width: 100px;
+    height: 50px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+} */
+.p-2{
+    border-radius: 20px;
+    /* margin: 30px; */
+    margin-top: 70px;
+    margin-bottom: 40px;
+    margin-right: 20px;
+    /* padding: 10px; */
+    width:1000px;
+    height: 100px;
+    /* background-color: black; */
+}
+.row-3{
+    /* background-color: black; */
+    border-radius: 20px;
+    width: 520px;
+    height: 200px;
+    margin-top: 40px;
+    /* padding: 100px; */
+    /* margin: 20px; */
+}
+.row-1 input{
+    /* margin: px; */
+    background-color: black; 
+    border-radius: 20px; 
+    width: 450px; 
+    height: 35px;
+}
